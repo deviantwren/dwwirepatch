@@ -1,0 +1,11 @@
+{
+  "name" : "dwwirepatch",
+  "version" : "Beta v. Upbeat Giraffe - Update 1",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata": {
+    "author" : "deviantWren",
+    "description" : "Adds the wire to the wiring station.",
+    "support_url" : "content.hope@gmail.com"
+        }
+}
